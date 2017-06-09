@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.scn">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="edu.scn.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="edu.scn.LoginActivity"
+            android:label="Sign Chat Login" />
+        <activity
+            android:name="edu.scn.RegisterActivity"
+            android:label="Sign Chat register" />
+        <activity
+            android:name="edu.scn.HomeActivity"
+            android:label="Home" />
+        <activity
+            android:name="edu.scn.ChangePasswdActivity"
+            android:label="Change Password" />
+        <activity
+            android:name="edu.scn.ChatRoomActivity"
+            android:label="Chat Room" />
+        <activity
+            android:name="edu.scn.ChatHistoryActivity"
+            android:label="Chat History" />
+        <activity
+            android:name="edu.scn.FileSendActivity"
+            android:label="Send File" />
+        <activity
+            android:name="edu.scn.utils.FileChooser"
+            android:label="File Browser" />
+        <activity
+            android:name="edu.scn.FileHistoryActivity"
+            android:label="File History" />
+        <activity
+            android:name="edu.scn.FileInboxActivity"
+            android:label="File Inbox"></activity>
+    </application>
+
+</manifest>

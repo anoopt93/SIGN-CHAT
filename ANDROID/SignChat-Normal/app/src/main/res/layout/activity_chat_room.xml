@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="edu.scn.ChatRoomActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Spinner
+            android:id="@+id/toSP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/historyET"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:focusable="false"
+            android:hint="No Chat Found"
+            android:maxHeight="150dp" />
+
+        <EditText
+            android:id="@+id/msgET"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:hint="Type Your Message Here"
+            android:maxHeight="70dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="50dp"
+                android:onClick="clear"
+                android:text="Clear"
+                android:textColor="#AA2A3A" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:onClick="sendMSG"
+                android:text="Send"
+                android:textColor="#AA2A3A" />
+
+
+        </LinearLayout>
+
+
+        <GridView
+            android:id="@+id/signGV"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_below="@+id/button"
+            android:layout_marginTop="30dp"
+            android:numColumns="5"
+            android:scrollbars="vertical"
+            android:stretchMode="columnWidth" />
+
+    </LinearLayout>
+
+</RelativeLayout>

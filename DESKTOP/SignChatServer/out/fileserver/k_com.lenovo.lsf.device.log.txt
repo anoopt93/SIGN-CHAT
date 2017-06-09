@@ -1,0 +1,90 @@
+[2014-01-01 00:00:15][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:26][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:27][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:28][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:29][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:30][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:31][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:32][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:33][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:34][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:35][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:36][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-01-01 00:00:36][I][keyPushLog]LSF_DEVICE_PUSH:UNREGISTER(pkg removed): pkg=com.tencent.mm
+[2014-01-01 00:00:36][I][keyPushLog]LSF_DEVICE_PUSH:Save regInfo : []
+[2014-01-01 00:00:36][I][keyPushLog]LSF_DEVICE_PUSH:PushReg.updateEngine : send ACTION_SWITCH_ON.
+[2014-04-26 11:08:41][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-04-26 11:08:46][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-04-26 11:08:54][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2014-04-26 11:16:56][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 05:42:33][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 05:42:34][I][keyPushLog]LSF_DEVICE_PUSH:PushService.getInstance : reg screen_on.
+[2015-10-09 05:42:34][I][keyPushLog]LSF_DEVICE_PUSH:Engine T: stop
+[2015-10-09 05:42:35][I][keyPushLog]LSF_DEVICE_PUSH:NetMode=wifi, wifiOnly=0, pkg=com.lenovo.lsf.device
+[2015-10-09 05:42:35][I][keyPushLog]LSF_DEVICE_PUSH:LsfStartTime:2015-11-08 05:42:35
+[2015-10-09 05:42:35][I][keyPushLog]LSF_DEVICE_PUSH:SDAC limit : stop.
+[2015-10-09 05:42:36][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 05:42:37][I][keyPushLog]LSF_DEVICE_PUSH:NetMode=wifi, wifiOnly=0, pkg=com.lenovo.lsf.device
+[2015-10-09 05:42:37][I][keyPushLog]LSF_DEVICE_PUSH:LsfStartTime:2015-11-08 05:42:35
+[2015-10-09 05:42:37][I][keyPushLog]LSF_DEVICE_PUSH:SDAC limit : stop.
+[2015-10-09 05:42:38][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 05:42:39][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 05:42:40][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 05:42:41][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 05:42:42][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 05:42:47][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 05:43:10][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 05:58:00][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 06:08:34][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 06:08:34][I][keyPushLog]LSF_DEVICE_PUSH:Engine T: stop
+[2015-10-09 08:36:53][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 09:11:12][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 09:11:50][I][keyPushLog]LSF_DEVICE_PUSH:NetMode=wifi, wifiOnly=0, pkg=com.lenovo.lsf.device
+[2015-10-09 09:11:50][I][keyPushLog]LSF_DEVICE_PUSH:LsfStartTime:2015-11-08 05:42:35
+[2015-10-09 09:11:50][I][keyPushLog]LSF_DEVICE_PUSH:SDAC limit : stop.
+[2015-10-09 09:11:51][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 09:40:28][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 09:44:05][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 09:49:39][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 09:49:39][I][keyPushLog]LSF_DEVICE_PUSH:Engine T: stop
+[2015-10-09 11:48:36][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 11:48:40][I][keyPushLog]LSF_DEVICE_PUSH:NetMode=wifi, wifiOnly=0, pkg=com.lenovo.lsf.device
+[2015-10-09 11:48:40][I][keyPushLog]LSF_DEVICE_PUSH:LsfStartTime:2015-11-08 05:42:35
+[2015-10-09 11:48:40][I][keyPushLog]LSF_DEVICE_PUSH:SDAC limit : stop.
+[2015-10-09 11:48:41][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 11:54:00][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 11:54:01][I][keyPushLog]LSF_DEVICE_PUSH:NetMode=wifi, wifiOnly=0, pkg=com.lenovo.lsf.device
+[2015-10-09 11:54:01][I][keyPushLog]LSF_DEVICE_PUSH:LsfStartTime:2015-11-08 05:42:35
+[2015-10-09 11:54:01][I][keyPushLog]LSF_DEVICE_PUSH:SDAC limit : stop.
+[2015-10-09 11:54:02][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 11:54:08][I][keyPushLog]LSF_DEVICE_PUSH:Engine T: stop
+[2015-10-09 12:15:43][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-10-09 12:15:43][I][keyPushLog]LSF_DEVICE_PUSH:Engine T: stop
+[2015-10-09 12:40:58][I][keyPushLog]LSF_DEVICE_PUSH:NetMode=wifi, wifiOnly=0, pkg=com.lenovo.lsf.device
+[2015-10-09 12:40:58][I][keyPushLog]LSF_DEVICE_PUSH:LsfStartTime:2015-11-08 05:42:35
+[2015-10-09 12:40:58][I][keyPushLog]LSF_DEVICE_PUSH:SDAC limit : stop.
+[2015-10-09 12:40:59][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 16:06:06][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 16:06:11][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 17:57:26][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 17:57:26][I][keyPushLog]LSF_DEVICE_PUSH:PushService.getInstance : reg screen_on.
+[2015-11-30 17:57:26][I][keyPushLog]LSF_DEVICE_PUSH:Engine T: stop
+[2015-11-30 18:49:59][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 18:50:03][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 18:50:12][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 21:11:20][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 21:11:24][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 22:41:35][I][keyPushLog]LSF_DEVICE_PUSH:NetMode=3g, wifiOnly=0, pkg=com.lenovo.lsf.device
+[2015-11-30 22:41:35][I][keyPushLog]LSF_DEVICE_PUSH:LsfStartTime:2015-11-08 07:12:35
+[2015-11-30 22:41:35][I][keyPushLog]LSF_DEVICE_PUSH:Data no limit.
+[2015-11-30 22:41:37][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 22:41:37][I][keyPushLog]LSF_DEVICE_PUSH:PushService.getInstance : reg screen_on.
+[2015-11-30 22:41:38][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 22:41:39][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 22:41:40][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 22:41:40][I][keyPushLog]LSF_DEVICE_PUSH:NetMode=3g, wifiOnly=0, pkg=com.lenovo.lsf.device
+[2015-11-30 22:41:40][I][keyPushLog]LSF_DEVICE_PUSH:LsfStartTime:2015-11-08 07:12:35
+[2015-11-30 22:41:40][I][keyPushLog]LSF_DEVICE_PUSH:Data no limit.
+[2015-11-30 22:41:41][I][keyPushLog]LSF_DEVICE_PUSH:store pid=null
+[2015-11-30 22:41:41][I][keyPushLog]LSF_DEVICE_PUSH:Engine=com.lenovo.lsf.device, start com.lenovo.lsf.device
+[2015-11-30 22:41:42][I][keyPushLog]LSF_DEVICE_PUSH:return pid=470792972
